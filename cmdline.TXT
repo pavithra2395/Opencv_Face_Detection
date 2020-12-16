@@ -1,0 +1,1 @@
+py gad.py --image girl1.jpg
